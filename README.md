@@ -36,3 +36,20 @@ as the assertion framework:
 
 - **Mocha:** https://mochajs.org/
 - **Chai:** https://www.chaijs.com/
+
+### CLI
+There's also a little CLI wired up.
+
+#### Usage
+Open your terminal/shell and...
+```shell
+node int2words <iterative|recursive> value [value...]
+```
+##### Examples
+```shell
+node int2words iterative 1 123 987000345
+```
+
+```shell
+node int2words recursive 1 123 987000345
+```
