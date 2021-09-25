@@ -1,0 +1,5 @@
+---
+spec: './**/*.test.js'
+recursive: true
+reporter: spec
+ui: bdd

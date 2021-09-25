@@ -1,0 +1,20 @@
+{
+  "name": "int-to-words",
+  "version": "1.0.0",
+  "root": true,
+  "description": "",
+  "main": "group-to-words.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "eslint"
+  },
+  "keywords": [],
+  "author": "Nicholas Carey <nicholas.carey@nordstrom.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "eslint": "^7.32.0",
+    "eslint-config-google": "^0.14.0",
+    "mocha": "^9.1.2"
+  }
+}
